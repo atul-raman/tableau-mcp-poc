@@ -1,0 +1,15 @@
+{
+  "client_id": "https://atul-raman.github.io/tableau-mcp-poc/client-gateway-test.json",
+  "client_name": "Choice INV-3137 Gateway portal test",
+  "redirect_uris": [
+    "https://bedrock-agentcore.us-west-2.amazonaws.com/identities/oauth2/callback/1af2f1dd-e717-4885-b41d-5f7aa7804396"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
