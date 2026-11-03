@@ -1,0 +1,8 @@
+{
+  "client_id": "https://atul-raman.github.io/tableau-mcp-poc/client-agentcore-test.json",
+  "client_name": "Choice INV-3137 AgentCore proxy test",
+  "redirect_uris": ["https://bedrock-agentcore.us-west-2.amazonaws.com/identities/oauth2/callback/7669b782-c531-412f-a9d7-af6d12a40f1f"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
